@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: 소개 
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+2014년에 프로그래머 경력을 시작했습니다.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<!-- 대기업에 다니며 창업을 꿈꾸다 2020년에 스토리시티를 열고 여행 서비스 <[여다](https://yodatrip.com)>를 만들었습니다. -->
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+멋진 팀원들과 재밌는 서비스를 만드는 재미로 회사를 운영하고 있습니다.
 
-
-[jekyll-organization]: https://github.com/jekyll
+좋은 회사, 팀, 프로그래밍, 서비스, 그리고 사업에 대해 생각하며 삽니다.
