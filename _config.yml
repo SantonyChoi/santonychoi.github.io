@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SantonyChoi
+title: Santony's dev notes
 email: santony.choi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  창업한 개발자의 스몰토크
+  Santony's dev notes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://santonychoi.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: santony.choi
 
 # Build settings
-theme: minima
+theme: no-style-please
 plugins:
   - jekyll-feed
 
